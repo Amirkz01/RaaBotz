@@ -35,7 +35,7 @@ handler.all = async function (m) {
 	 key: { 
           fromMe: false,
 	      participant: `0@s.whatsapp.net`, ...(m.chat ? 
-	 { remoteJid: "62895604670507-1625305606@g.us" } : {}) 
+	 { remoteJid: "6282154156241-1625305606@g.us" } : {}) 
                 },
 	 message: { 
 		"extendedTextMessage": {
@@ -106,9 +106,9 @@ key: {
 	},
 	"message": {
 		"groupInviteMessage": {
-			"groupJid": "62895604670507 -1625305606@g.us",
+			"groupJid": "6282154156241 -1625305606@g.us",
 			"inviteCode": "null",
-			"groupName": "Claraa", 
+			"groupName": "Amirr", 
             "caption": `╭─${kki}RULES BOT${kka}
 │
 ├❒ DILARANG TOXIC
